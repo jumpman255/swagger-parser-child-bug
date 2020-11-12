@@ -1,0 +1,11 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: Test API
+
+components:
+  schemas:
+    $ref: './schemas.yaml'
+
+paths:
+  $ref: './paths.yaml'
